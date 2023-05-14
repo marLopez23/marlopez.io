@@ -1,9 +1,8 @@
 # marlopez.io
-<! doctypehtml>
 <html>
 <head></head>
 <body>
-<h1>mi primera pagina web en github </h1> 
+<h1>mi primera página web github</h1>
 
 </body>
 
